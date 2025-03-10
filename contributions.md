@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 24   | [link](https://en.wikipedia.org/wiki/Special:Contributions/Kojanoth)    | Wikipedia edit    |   fixed tone issues and grammatical errors.    |
-|     |     |     |      |
+| Feb 24 2025   | [link](https://en.wikipedia.org/wiki/Special:Contributions/Kojanoth)    | Wikipedia edit    |   fixed tone issues and grammatical errors.    |
+| Mar 9th 2025   |  [link](https://en.wikipedia.org/wiki/Special:Contributions/Kojanoth)   | Wikipedia Edit    |  Fixed Gramatical Issues    |
 |     |     |     |      |
