@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+	background: #581845;
+  font: 18px/1.4 "Times New Roman", Times, serif;
+  color: #ffffff;
 }
 
 .container {
@@ -76,8 +76,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $darkerGray;
+  font-family: "Times New Roman", Times, serif;
+  color: #ffffff;
   font-weight: bold;
 
   line-height: 1.7;
@@ -114,11 +114,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: #ffffff;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: #cccccc;
   }
 }
 
@@ -258,7 +258,8 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: "Times New Roman", Times, serif;
+  color: #ffffff;
   font-size: 18px;
 
   @include mobile {
