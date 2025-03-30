@@ -25,7 +25,7 @@ Replace the first row with your own contribution.
 | Feb 24 2025   | [link](https://en.wikipedia.org/wiki/Special:Contributions/Kojanoth)    | Wikipedia edit    |   fixed tone issues and grammatical errors.    |
 | Mar 9th 2025   |  [link](https://en.wikipedia.org/wiki/Special:Contributions/Kojanoth)   | Wikipedia Edit    |  Fixed Gramatical Issues    |
 |   March 30th  |  [Pull Request](https://github.com/alfg/opendrinks/pull/1435)   |  [Opendrinks.io](https://opendrinks.io/)   |   Created an additional json file to add a Sudanese drink to the website   |
-|    |    |    |    |
+|  March 30th  | [Pull Request](https://github.com/alfg/opendrinks/pull/1436)   | [Opendrinks.io](https://opendrinks.io/)   |  created an additional json file to add a south sudanese drink to the website  |
 |    |    |    |    |
 |    |    |    |    |
 |    |    |    |    |
