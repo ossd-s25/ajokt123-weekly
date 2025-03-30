@@ -26,6 +26,6 @@ Replace the first row with your own contribution.
 | Mar 9th 2025   |  [link](https://en.wikipedia.org/wiki/Special:Contributions/Kojanoth)   | Wikipedia Edit    |  Fixed Gramatical Issues    |
 |   March 30th  |  [Pull Request](https://github.com/alfg/opendrinks/pull/1435)   |  [Opendrinks.io](https://opendrinks.io/)   |   Created an additional json file to add a Sudanese drink to the website   |
 |  March 30th  | [Pull Request](https://github.com/alfg/opendrinks/pull/1436)   | [Opendrinks.io](https://opendrinks.io/)   |  created an additional json file to add a south sudanese drink to the website  |
-|    |    |    |    |
+| March 30th  | [Link](https://github.com/Njong392/Abbreve/issues/514)   |  [Abbreve](https://abbreve.vercel.app/)  |   Requested to take up an issue from the maintainer to add an additional abbreviation she wanted |
 |    |    |    |    |
 |    |    |    |    |
