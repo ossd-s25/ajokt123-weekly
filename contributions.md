@@ -28,7 +28,7 @@ Replace the first row with your own contribution.
 |   March 30th  |  [Pull Request](https://github.com/alfg/opendrinks/pull/1435)   |  [Opendrinks.io](https://opendrinks.io/)   |   Created an additional json file to add a Sudanese drink to the website   |
 |  March 30th  | [Pull Request](https://github.com/alfg/opendrinks/pull/1436)   | [Opendrinks.io](https://opendrinks.io/)   |  created an additional json file to add a south sudanese drink to the website  |
 | March 30th  | [Link](https://github.com/Njong392/Abbreve/issues/514)   |  [Abbreve](https://abbreve.vercel.app/)  |   Requested to take up an issue from the maintainer to add an additional abbreviation she wanted |
-|    |    |    |    |
+|  March 31st  |  [link](https://github.com/lucide-icons/lucide/issues/2978)  |  Lucide  | Created SVG in lucide studio and opened an issue to add a peace sign hand emoji   |
 |    |    |    |    |
 |    |    |    |    |
 |    |    |    |    |
