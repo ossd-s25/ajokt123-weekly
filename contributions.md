@@ -29,6 +29,6 @@ Replace the first row with your own contribution.
 |  March 30th  | [Pull Request](https://github.com/alfg/opendrinks/pull/1436)   | [Opendrinks.io](https://opendrinks.io/)   |  created an additional json file to add a south sudanese drink to the website  |
 | March 30th  | [Link](https://github.com/Njong392/Abbreve/issues/514)   |  [Abbreve](https://abbreve.vercel.app/)  |   Requested to take up an issue from the maintainer to add an additional abbreviation she wanted |
 |  March 31st  |  [link](https://github.com/lucide-icons/lucide/issues/2978)  |  Lucide  | Created SVG in lucide studio and opened an issue to add a peace sign hand emoji and received feedback from one of the maintainers  |
-|  March 31st  |  [Github PR](https://github.com/Njong392/Abbreve/pull/515)  | Abbreve   | added a json file with the new abbreviation. Created a pull request   |
-|    |    |    |    |
+|  March 31st  |  [Github PR](https://github.com/Njong392/Abbreve/pull/515)  | Abbreve   | added a json file with the new abbreviation "dtm". Created a pull request   |
+|  April 1st |  [issue](https://github.com/software-students-fall2024/3-python-package-all-stars-v3/issues/17)  |  Python Package  | Opened an issue. Wrote an additional test case to handle non-string inputs for the name parameter of this package.  |
 |    |    |    |    |
