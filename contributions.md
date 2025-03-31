@@ -31,4 +31,4 @@ Replace the first row with your own contribution.
 |  March 31st  |  [link](https://github.com/lucide-icons/lucide/issues/2978)  |  Lucide  | Created SVG in lucide studio and opened an issue to add a peace sign hand emoji and received feedback from one of the maintainers  |
 |  March 31st  |  [Github PR](https://github.com/Njong392/Abbreve/pull/515)  | Abbreve   | added a json file with the new abbreviation "dtm". Created a pull request   |
 |  April 1st |  [issue](https://github.com/software-students-fall2024/3-python-package-all-stars-v3/issues/17)  |  Python Package  | Opened an issue. Wrote an additional test case to handle non-string inputs for the name parameter of this package.  |
-|    |    |    |    |
+|  April 1st  |  [PR](https://github.com/software-students-fall2024/3-python-package-all-stars-v3/pull/18)  |  Python Package  | Created a PR to add an additional case to handle a case if a user inputs an int instead of a str. Raises AttributeError   |
