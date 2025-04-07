@@ -28,8 +28,8 @@ Replace the first row with your own contribution.
 |  March 31st  |  [Github PR Merged](https://github.com/Njong392/Abbreve/pull/515)  | Abbreve   | added a json file with the new abbreviation "dtm". Created a pull request and it was successfully merged by the creator!   |
 |  April 1st |  [issue](https://github.com/software-students-fall2024/3-python-package-all-stars-v3/issues/17)  |  Python Package  | Opened an issue. Wrote an additional test case to handle non-string inputs for the name parameter of this package.  |
 |  April 1st  |  [PR](https://github.com/software-students-fall2024/3-python-package-all-stars-v3/pull/18)  |  Python Package  | Created a PR to add an additional case to handle a case if a user inputs an int instead of a str. Raises AttributeError   |
-|    |    |    |    |
-|    |    |    |    |
+|  April 7th  |  [Github PR](https://github.com/lucide-icons/lucide/pull/3001)  | Lucide    | Created a PR to add an additional peace-sign svg icon   |
+|   April 7th |   [Discussion on Issue](https://github.com/lucide-icons/lucide/issues/2914) |  Lucide Studio  |  Edited a previous version of the whistle icon in lucide studio for feedback  |
 |    |    |    |    |
 |    |    |    |    |
 |    |    |    |    |
