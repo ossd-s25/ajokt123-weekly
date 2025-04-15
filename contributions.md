@@ -30,7 +30,7 @@ Replace the first row with your own contribution.
 |  April 1st  |  [PR](https://github.com/software-students-fall2024/3-python-package-all-stars-v3/pull/18)  |  Python Package  | Created a PR to add an additional case to handle a case if a user inputs an int instead of a str. Raises AttributeError   |
 |  April 7th  |  [Github PR](https://github.com/lucide-icons/lucide/pull/3001)  | Lucide    | Created a PR to add an additional peace-sign svg icon   |
 |   April 7th |   [Discussion on Issue](https://github.com/lucide-icons/lucide/issues/2914) |  Lucide Studio  |  Edited a previous version of the whistle icon in lucide studio for feedback  |
-|    |    |    |    |
+|  April 14th | [Discussion Link](https://github.com/lucide-icons/lucide/issues/3026)   |  Lucide Studio/Figma | Responded to an open issue to create an AI summary icon. Created icon in figma/lucide studio and replied with the proposed icon   |
 |    |    |    |    |
 |    |    |    |    |
 |    |    |    |    |
