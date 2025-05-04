@@ -30,4 +30,9 @@ Replace the first row with your own contribution.
 |  May 4th  |  [Issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/1028)  | SimplifyJobs   |  Added a recent job posting   |
 | May 4th   | [Issue](https://github.com/openfoodfacts/smooth-app/issues/6580)   |  Open food facts (smooth-app)  |  opened an issue about a broken link found on their partners page  |
 |  May 4th  |  [PR](https://github.com/DigiLogicLabs/OpenSourceSports/pull/7)  | OpenSourceSports   |  Created a PR to move their contributing guidelines into a seperate file because the README includes the project overview, contribution guidelines, repository structure, and metadata conventions which can be overwhelming to have it all in one place |
+|      May 4th     |        [Issue](https://github.com/facebook/docusaurus/issues/11146)      |        Docusaurus       |      Identified a broken link that leads to a 404 error on their version documention site         |
+|           |              |               |               |
+|           |              |               |               |
+|           |              |               |               |
+
 
