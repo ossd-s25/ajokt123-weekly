@@ -26,8 +26,8 @@ Replace the first row with your own contribution.
 |  March 31st  |  [Github PR Merged](https://github.com/Njong392/Abbreve/pull/515)  | Abbreve   | added a json file with the new abbreviation "dtm". Created a pull request and it was successfully merged by the creator!   |
 |  April 1st |  [issue](https://github.com/software-students-fall2024/3-python-package-all-stars-v3/issues/17)  |  Python Package  | Opened an issue. Wrote an additional test case to handle non-string inputs for the name parameter of this package.  |
 |  April 1st  |  [PR](https://github.com/software-students-fall2024/3-python-package-all-stars-v3/pull/18)  |  Python Package  | Created a PR to add an additional case to handle a case if a user inputs an int instead of a str. Raises AttributeError   |
-|    |    |    |    |
-|    |    |    |    |
+|  May 4th  |  [Wiki Edit](https://en.wikipedia.org/wiki/Special:Contributions/Kojanoth)  | Wikipedia   | Made an edit to an artical about African art   |
+|  May 4th  |  [Issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/1028)  | SimplifyJobs   |  Added a recent job posting   |
 |    |    |    |    |
 |    |    |    |    |
 
