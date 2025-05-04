@@ -28,6 +28,6 @@ Replace the first row with your own contribution.
 |  April 1st  |  [PR](https://github.com/software-students-fall2024/3-python-package-all-stars-v3/pull/18)  |  Python Package  | Created a PR to add an additional case to handle a case if a user inputs an int instead of a str. Raises AttributeError   |
 |  May 4th  |  [Wiki Edit](https://en.wikipedia.org/wiki/Special:Contributions/Kojanoth)  | Wikipedia   | Made an edit to an artical about African art   |
 |  May 4th  |  [Issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/1028)  | SimplifyJobs   |  Added a recent job posting   |
-|    |    |    |    |
+| May 4th   | [Issue](https://github.com/openfoodfacts/smooth-app/issues/6580)   |  Open food facts (smooth-app)  |  opened an issue about a broken link found on their partners page  |
 |    |    |    |    |
 
